@@ -11,7 +11,7 @@
 (function () {
     'use strict';
 
-    const TARGET_LABEL = 'Музыка';
+    const TARGET_LABEL = 'Music';
 
     let alreadyActivated = false;
     let userOverridden   = false;
