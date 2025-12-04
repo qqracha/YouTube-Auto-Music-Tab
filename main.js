@@ -11,7 +11,7 @@
 (function () {
     'use strict';
 
-    const TARGET_LABEL = 'Music';
+    const TARGET_LABEL = 'Music'; // change it for your language
 
     let alreadyActivated = false;
     let userOverridden   = false;
